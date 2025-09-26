@@ -1,0 +1,13 @@
+{
+  "app.title": "Portail de l'Inspecteur Pédagogique",
+  "nav.dashboard": "Tableau de bord",
+  "nav.plan": "Plan d'Action",
+  "nav.tasks": "Tâches",
+  "nav.teachers": "Enseignants",
+  "nav.reports": "Rapports",
+  "nav.territory": "Territoire",
+  "nav.documents": "Documents",
+  "nav.assistant": "Assistant IA",
+  "nav.doccenter": "Centre de Documents",
+  "nav.settings": "Paramètres"
+}
