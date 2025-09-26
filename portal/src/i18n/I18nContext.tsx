@@ -14,7 +14,7 @@ export const I18nProvider: React.FC<{children: React.ReactNode}> = ({ children }
 
   useEffect(()=>{ localStorage.setItem('lang', lang); document.documentElement.lang = lang; document.documentElement.dir = lang === 'ar' ? 'rtl' : 'ltr';
     (async ()=>{
-      const res = await fetch(`/public/i18n/${lang}.json`).catch(()=>undefined);
+      const res = await fetch(`/i18n/${lang}.json`).catch(()=>undefined);
       if (res && res.ok) setDict(await res.json()); else setDict({});
     })();
   }, [lang]);
