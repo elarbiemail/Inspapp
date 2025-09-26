@@ -1,0 +1,13 @@
+{
+  "app.title": "Inspector Portal",
+  "nav.dashboard": "Dashboard",
+  "nav.plan": "Action Plan",
+  "nav.tasks": "Tasks",
+  "nav.teachers": "Teachers",
+  "nav.reports": "Reports",
+  "nav.territory": "Territory",
+  "nav.documents": "Documents",
+  "nav.assistant": "AI Assistant",
+  "nav.doccenter": "Document Center",
+  "nav.settings": "Settings"
+}
